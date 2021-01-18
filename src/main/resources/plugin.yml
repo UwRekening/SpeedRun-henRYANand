@@ -1,0 +1,9 @@
+name: SpeedRun
+version: ${project.version}
+main: nl.uwrekening.speedrun.Main
+api-version: 1.16
+authors: [UwRekening]
+description: SpeedRun Plugin!
+commands:
+  speedrun:
+  test:
